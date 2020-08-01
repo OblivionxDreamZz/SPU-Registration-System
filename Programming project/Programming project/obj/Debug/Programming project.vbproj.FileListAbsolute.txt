@@ -1,0 +1,19 @@
+C:\Users\Student\source\repos\Programming project\Programming project\bin\Debug\Programming project.exe.config
+C:\Users\Student\source\repos\Programming project\Programming project\bin\Debug\Programming project.exe
+C:\Users\Student\source\repos\Programming project\Programming project\bin\Debug\Programming project.pdb
+C:\Users\Student\source\repos\Programming project\Programming project\bin\Debug\Programming project.xml
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming project.vbprojAssemblyReference.cache
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.AddmistrationPortal.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.ApplicationForm.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.RegistrationForm.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.Resources.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.StudentPortal.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming project.vbproj.GenerateResource.cache
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming project.exe
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming project.xml
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming project.pdb
+C:\Users\Student\source\repos\Programming project\Programming project\bin\Debug\Application form.accdb
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.Form5.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.Home.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.Form6.resources
+C:\Users\Student\source\repos\Programming project\Programming project\obj\Debug\Programming_project.SQL_Database.resources
